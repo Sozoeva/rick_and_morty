@@ -22,7 +22,7 @@
         <a href="https://x.com/i/flow/login?redirect_after_login=%2Frickandmortyapi" target="_blank">Twitter</a>
         <p>Support</p>
       </div>
-      <div>❮❯ by <a href="">Axel Fuhrmann</a> 2024</div>
+      <div>❮❯ by Axel Fuhrmann 2024</div>
     </section>
   </footer>
 </template>
